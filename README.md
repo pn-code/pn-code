@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Philip Nguyen @pn-code
-- 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently learning React...
+- 👀 I’m interested in Full-Stack Web Development
+- 🌱 I’m currently learning NextJS
 - 📫 Please reach out to me through my email: philipnguyen953@gmail.com
 
 <!---
