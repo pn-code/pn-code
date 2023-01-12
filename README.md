@@ -30,11 +30,11 @@ ___
 📫 Get in contact with me! 
 
 
-![gmail](https://img.shields.io/badge/Gmail-#EA4335?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![Gmail](https://img.shields.io/badge/Gmail-#EA4335?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
-![github](https://img.shields.io/badge/GitHub-#181717?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![GitHub](https://img.shields.io/badge/GitHub-#181717?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
-![linkedin](https://img.shields.io/badge/LinkedIn-#0A66C2?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
