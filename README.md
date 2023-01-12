@@ -3,7 +3,6 @@
 ## About @pncode
 
 <p>
-<br>
 :tada: I am self-taught full-stack web developer, who specializes in the MERN stack. I enjoy working on both front-end and back-end technologies.
 
 <br>
@@ -17,6 +16,7 @@
 <br>
   
 🌱 I’m currently learning NextJS...  
+<br>
 </p>
 
 ## Skills :briefcase:
