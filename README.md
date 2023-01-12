@@ -43,11 +43,14 @@ ___
 #### Feel free to get in contact with me! 
 
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-philipnguyen953@gmail.com
+<a href="mailto:philipnguyen953@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<a/>
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-https://github.com/pn-code
+<a href="https://github.com/pn-code" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+  
 
 <!--- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) --->
 
