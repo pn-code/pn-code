@@ -1,32 +1,23 @@
-# Hi there! Welcome to my GitHub Profile.
+# Hi there, I'm <a href="" target="_blank" rel="noreferrer">Philip Nguyen</a> 👋
 
-## About @pncode :dark_sunglasses:
-
-<h3>
-Hi there, I'm <a href="" target="_blank" rel="noreferrer">Philip Nguyen</a> 👋
-</h3>
+## About @pncode
 
 <p>
 <br>
 :tada: I am self-taught full-stack web developer, who specializes in the MERN stack. I enjoy working on both front-end and back-end technologies.
-  
-<br>
+
 <br>
 
 :books: I love to learn and apply myself. As an extension of my passion for learning, I would love to learn any new technologies and stacks if the opportunity presents itself. 
 
 <br>
-<br>
   
 :hammer: I enjoy building a variety of projects. 
   
 <br>
-<br>
   
 🌱 I’m currently learning NextJS...  
 </p>
-
-___
 
 ## Skills :briefcase:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,6 +36,7 @@ ___
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+___
 
 ## Contact 📫
 
