@@ -1,5 +1,19 @@
 # Hi there, I'm <a href="" target="_blank" rel="noreferrer">Philip Nguyen</a> 👋
 
+<p>
+:tada: I am a self-taught full-stack web developer, who enjoys working on both front-end and back-end technologies.
+<br>
+  
+:books: As an extension of my passion for learning, I regularly challenge myself to learn new skills and apply them to my projects.
+<br>
+  
+:hammer: I enjoy building a variety of projects. 
+<br>
+  
+🌱 I’m currently learning Redux... 
+<br>
+</p>
+
 ## Skills :briefcase:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,26 +33,7 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
-___
-## About @pncode
 
-<p>
-:tada: I am self-taught full-stack web developer, who specializes in the MERN stack. I enjoy working on both front-end and back-end technologies.
-
-<br>
-
-:books: I love to learn and apply myself. As an extension of my passion for learning, I would love to learn any new technologies and stacks if the opportunity presents itself. 
-
-<br>
-  
-:hammer: I enjoy building a variety of projects. 
-  
-<br>
-  
-🌱 I’m currently learning React Native...  
-<br>
-</p>
----
 
 ## Contact 📫
 
