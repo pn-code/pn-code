@@ -1,4 +1,4 @@
-# Hi there, I'm <a href="www.philipnguyen.dev" target="_blank" rel="noreferrer">Philip Nguyen</a> 👋
+# Hi there, I'm <a href="https://philipnguyen.dev" target="_blank" rel="noreferrer">Philip Nguyen</a> 👋
 
 <p>
 :tada: I am a self-taught full-stack web developer, who enjoys working on both front-end and back-end technologies.
