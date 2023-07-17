@@ -1,16 +1,16 @@
 # Hi there, I'm <a href="https://philipnguyen.dev" target="_blank" rel="noreferrer">Philip Nguyen</a> 👋
 
 <p>
-:tada: I am a self-taught full-stack web developer, who enjoys working on both front-end and back-end technologies.
+:tada: I am a Software Engineer, with a passion to build robust web applications that improves the quality of life of my users.
 <br>
   
-:books: As an extension of my passion for learning, I regularly challenge myself to learn new skills and apply them to my projects.
+:books: I love to learn and I regularly challenge myself to learn new skills and apply them to my projects.
 <br>
   
-:hammer: I enjoy building a variety of projects. 
+:hammer: When I am working on a new feature or fixing a bug, I cannot help but work on the code until it comes to fruition.
 <br>
   
-🌱 I’m currently learning TRPC & GraphQL.
+🌱 It is important for me to be in a fast-paced environment, where I can learn and grow. 
 <br>
 </p>
 
