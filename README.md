@@ -44,6 +44,9 @@
 
 #### Feel free to get in contact with me! 
 
+You can reliably contact me via email at philipnguyen953@gmail.com
+
+OR: 
 
 <a href="mailto:philipnguyen953@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
